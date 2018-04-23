@@ -7,4 +7,8 @@ class demo
  {
  ....
  }
+ void withdraw()
+ {
+ ------
+}
 }
