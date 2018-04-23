@@ -4,4 +4,8 @@ class demo
   {
    void git data()
   }
- void
+ void deposits()
+  {
+  -----
+    }
+}
